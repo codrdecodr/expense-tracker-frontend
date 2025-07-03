@@ -21,7 +21,7 @@ A full-stack expense tracker app built to help users manage and monitor their da
 ### Frontend:
 - React
 - React Router
-- CSS (Responsive UI)
+- CSS 
 
 ### Backend:
 - Node.js
@@ -83,10 +83,3 @@ expense-tracker-frontend/
 
 Made with ❤️ by **Mansi**
 GitHub: [@codrdecodr](https://github.com/codrdecodr)
-
----
-
-```
-
-Let me know if you want to add [backend repo README](f), [project demo script](f), or [screenshots section](f) next!
-```
