@@ -3,7 +3,6 @@
 
 A full-stack expense tracker app built to help users manage and monitor their daily expenses efficiently.
 
----
 
 ## 🚀 Features
 
