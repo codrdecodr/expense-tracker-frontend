@@ -13,7 +13,6 @@ A full-stack expense tracker app built to help users manage and monitor their da
 - ✅ Total amount calculation
 - ✅ Backend integration with MongoDB and Express
 
----
 
 ## 🧰 Tech Stack
 
@@ -28,7 +27,6 @@ A full-stack expense tracker app built to help users manage and monitor their da
 - MongoDB (Mongoose)
 - JWT for Authentication
 
----
 
 ## 📦 Getting Started
 
@@ -53,13 +51,11 @@ npm start
 
 Make sure the backend server is also running (typically on port `5000`).
 
----
 
 ## 🔁 API Integration
 
 All expense and user data is managed via RESTful APIs. The frontend communicates securely with the backend using stored JWT tokens.
 
----
 
 ## 📂 Project Structure
 
@@ -76,9 +72,8 @@ expense-tracker-frontend/
 └── README.md
 ```
 
----
+## 👤 Author
 
-## 🧑 Author
-
-Made with ❤️ by **Mansi**
+Developed by Mansi  
 GitHub: [@codrdecodr](https://github.com/codrdecodr)
+
