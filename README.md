@@ -1,79 +1,44 @@
 
-# 💸 Expense Tracker
+# MERN Expense Tracker – Frontend
 
-A full-stack expense tracker app built to help users manage and monitor their daily expenses efficiently.
+Welcome to the frontend of the MERN Expense Tracker, built with React to give you a smooth, intuitive way to manage your expenses. This app connects to a powerful backend API (Node.js, Express, MongoDB) to keep your data safe and synced.
 
+## What You’ll Find Here
+- Secure user authentication (signup & login)
+- Easy add, edit, and delete expense functionality
+- Clear expense history and insightful summaries
+- Fully responsive design for desktop and mobile
 
-## 🚀 Features
+## Quick Start
+1. Clone this repo:
+```
 
-- ✅ User Registration & Login with secure JWT authentication
-- ✅ Add, view, update and delete expenses
-- ✅ Filter expenses by category
-- ✅ Real-time expense list updates
-- ✅ Total amount calculation
-- ✅ Backend integration with MongoDB and Express
+git clone <frontend-repo-url>
 
+```
+2. Install dependencies:
+```
 
-## 🧰 Tech Stack
-
-### Frontend:
-- React
-- React Router
-- CSS 
-
-### Backend:
-- Node.js
-- Express.js
-- MongoDB (Mongoose)
-- JWT for Authentication
-
-
-## 📦 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/codrdecodr/expense-tracker-frontend.git
-cd expense-tracker-frontend
-````
-
-### 2. Install Dependencies
-
-```bash
 npm install
+
+```
+3. Create a `.env` file with your backend API URL:
 ```
 
-### 3. Start the Development Server
+REACT\_APP\_API\_URL=[http://localhost:5000/api](http://localhost:5000/api)
 
-```bash
+```
+4. Start the app:
+```
+
 npm start
+
 ```
+5. Open [http://localhost:3000](http://localhost:3000) and start tracking!
 
-Make sure the backend server is also running (typically on port `5000`).
+## Backend API
+The backend lives in its own repo: [Backend Repo Link]. Make sure it’s running to enjoy the full experience.
 
-
-## 🔁 API Integration
-
-All expense and user data is managed via RESTful APIs. The frontend communicates securely with the backend using stored JWT tokens.
-
-
-## 📂 Project Structure
-
-```bash
-expense-tracker-frontend/
-│
-├── public/
-├── src/
-│   ├── components/       # Navbar, Forms, Lists
-│   ├── pages/            # Login, Register, Dashboard
-│   ├── util/             # auth utilities (e.g., token storage)
-│   └── App.js
-├── package.json
-└── README.md
-```
-
-## 👤 Author
-
-Developed by Mansi  
-GitHub: [@codrdecodr](https://github.com/codrdecodr)
+## Tech Stack
+React, Axios, React Router, and CSS Modules/Styled Components
 
