@@ -37,7 +37,7 @@ npm start
 5. Open [http://localhost:3000](http://localhost:3000) and start tracking!
 
 ## Backend API
-The backend lives in its own repo: [Backend Repo Link]. Make sure it’s running to enjoy the full experience.
+The backend lives in its own repo: https://github.com/codrdecodr/expense-tracker-backend. Make sure it’s running to enjoy the full experience.
 
 ## Tech Stack
 React, Axios, React Router, and CSS Modules/Styled Components
