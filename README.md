@@ -1,8 +1,4 @@
-Got it — let’s scrap the dark mode mention and emphasize your real features instead. Here's a much better `README.md` draft that reflects your actual project strengths:
 
----
-
-````markdown
 # 💸 Expense Tracker
 
 A full-stack expense tracker app built to help users manage and monitor their daily expenses efficiently.
