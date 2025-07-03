@@ -8,7 +8,7 @@ A full-stack expense tracker app built to help users manage and monitor their da
 ## 🚀 Features
 
 - ✅ User Registration & Login with secure JWT authentication
-- ✅ Add, view, and delete expenses
+- ✅ Add, view, update and delete expenses
 - ✅ Filter expenses by category
 - ✅ Real-time expense list updates
 - ✅ Total amount calculation
